@@ -10,7 +10,7 @@ Config.TrapHouses = {
     [1] = {
         coords = {
             ["enter"] = vector3(-1202.21, -1308.48, 4.92),
-            ["interaction"] = vector3(-1207.63, -1311.75, -32.65),
+            ["interaction"] = vector3(-1207.39, -1309.74, -32.65),
         },
         polyzoneBoxData = {
             ["enter"] = {
